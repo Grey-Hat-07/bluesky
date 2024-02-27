@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+
 """ Main BlueSky start script """
 import sys
 from bluesky.__main__ import main
